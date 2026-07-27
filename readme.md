@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭I'm a pre-final year student currently preparing for my placements.<br>🌱 Currently I'm focusing on DSA and Core CS subjects.<br>💬 Learning more about System Design and Optimization.<br>⚡ Empowering Professionalism over Enthusiasm.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lakshya-raj-malviya/) 
 
